@@ -96,3 +96,7 @@ The script segments the image, detects every leaf region, classifies each one, a
 - Normalize or exclude color features to reduce sensitivity to background.
 - Explore additional features (e.g. Hu invariant moments, Laws' texture masks) or alternative classifiers.
 
+## Authors
+
+- Davide Mauri
+- Tommaso Roncaglio
